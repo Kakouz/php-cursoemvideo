@@ -6,6 +6,9 @@
   </head>
   <body>
     <?php
+    $idade = 21;
+    $nome = "Tiago";
+    echo "$nome tem $idade anos.";
       ?>
   </body>
 </html>
