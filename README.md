@@ -1,7 +1,7 @@
 # Meu progresso no curso de PHP do curso em video(http://www.cursoemvideo.com).
 Meu progresso no curso de PHP do curso em video.[Curso básico, não incluso o de programação orientado a objeto]
 
---ATENÇÃO PARA O CÓDIGO FUNCIONAR COLOQUE ELE NA PASTA WWW DO WANP SE NÃO O PHP NÃO FUNCIONARÁ--
+--ATENÇÃO PARA O CÓDIGO FUNCIONAR COLOQUE ELE NA PASTA WWW DO WAMP SE NÃO O PHP NÃO FUNCIONARÁ--
 
 [AULA] 01 ATÉ 02 feitas.
 
