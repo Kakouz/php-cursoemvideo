@@ -1,4 +1,4 @@
-# Meu progresso no curso de PHP do curso em video.
+# Meu progresso no curso de PHP do curso em video(http://www.cursoemvideo.com).
 Meu progresso no curso de PHP do curso em video.[Curso básico, não incluso o de programação orientado a objeto]
 
 [AULA] 01 ATÉ 02 feitas.
