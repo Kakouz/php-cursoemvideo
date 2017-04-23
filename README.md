@@ -3,7 +3,7 @@ Meu progresso no curso de PHP do curso em video.[Curso básico, não incluso o d
 
 --ATENÇÃO PARA O CÓDIGO FUNCIONAR COLOQUE ELE NA PASTA WWW DO WAMP SE NÃO O PHP NÃO FUNCIONARÁ--
 
-[AULA] 01 ATÉ 10 feitas.
+[AULA] 01 ATÉ 14 feitas.
 
 Inicio dia 20/04/2017 [Boa parte dos arquivos serão amostrados aqui. Desde programas para iniciar o curso e para editar]
 
